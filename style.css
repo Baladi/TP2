@@ -1,3 +1,7 @@
+a
+{
+color:white;
+}
 body
 {
 	color: white;
@@ -12,6 +16,7 @@ body
 
 #header
 {
+	padding-left: 50px;
 	background: #black;
 	padding: 20px;
 	color: red;
